@@ -1,0 +1,2 @@
+module RoypostsHelper
+end
